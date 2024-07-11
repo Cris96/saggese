@@ -1133,9 +1133,9 @@
                             "nome": "Cepagatti"
                         },
                         {
-                            "code": "068012",
+                            "code": "C750",
                             "cap": "65013",
-                            "nome": "Citt\u00e0 Sant'Angelo"
+                            "nome": "Citta Sant'Angelo"
                         },
                         {
                             "code": "C771",
@@ -2487,9 +2487,9 @@
                             "nome": "Petrizzi"
                         },
                         {
-                            "code": "079095",
+                            "code": "G518",
                             "cap": "88050",
-                            "nome": "Petron\u00e0"
+                            "nome": "Petrona"
                         },
                         {
                             "code": "D546",
@@ -2602,9 +2602,9 @@
                             "nome": "Squillace"
                         },
                         {
-                            "code": "079143",
+                            "code": "I937",
                             "cap": "88069",
-                            "nome": "Stalett\u00ec"
+                            "nome": "Staletti"
                         },
                         {
                             "code": "L070",
@@ -2988,9 +2988,9 @@
                             "nome": "Luzzi"
                         },
                         {
-                            "code": "078071",
+                            "code": "E835",
                             "cap": "87020",
-                            "nome": "Maier\u00e0"
+                            "nome": "Maiera"
                         },
                         {
                             "code": "E859",
@@ -3449,14 +3449,14 @@
                             "nome": "Cerenzia"
                         },
                         {
-                            "code": "101007",
+                            "code": "C725",
                             "cap": "88813",
-                            "nome": "Cir\u00f2"
+                            "nome": "Ciro'"
                         },
                         {
-                            "code": "101008",
+                            "code": "C726",
                             "cap": "88811",
-                            "nome": "Cir\u00f2 Marina"
+                            "nome": "Ciro' Marina"
                         },
                         {
                             "code": "D123",
@@ -3685,9 +3685,9 @@
                             "nome": "Caulonia"
                         },
                         {
-                            "code": "080026",
+                            "code": "C695",
                             "cap": "89040",
-                            "nome": "Cimin\u00e0"
+                            "nome": "Cimina'"
                         },
                         {
                             "code": "C710",
@@ -3795,9 +3795,9 @@
                             "nome": "Martone"
                         },
                         {
-                            "code": "080048",
+                            "code": "F106",
                             "cap": "89020",
-                            "nome": "Melicucc\u00e0"
+                            "nome": "Melicucca"
                         },
                         {
                             "code": "F106",
@@ -3855,9 +3855,9 @@
                             "nome": "Placanica"
                         },
                         {
-                            "code": "080060",
+                            "code": "G735",
                             "cap": "89039",
-                            "nome": "Plat\u00ec"
+                            "nome": "Plati"
                         },
                         {
                             "code": "G791",
@@ -3935,9 +3935,9 @@
                             "nome": "San Luca"
                         },
                         {
-                            "code": "080075",
+                            "code": "I102",
                             "cap": "89020",
-                            "nome": "San Pietro di Carid\u00e0"
+                            "nome": "San Pietro di Carida"
                         },
                         {
                             "code": "I132",
@@ -4081,9 +4081,9 @@
                             "nome": "Cessaniti"
                         },
                         {
-                            "code": "102007",
+                            "code": "D253",
                             "cap": "89832",
-                            "nome": "Das\u00e0"
+                            "nome": "Diano San Pietro"
                         },
                         {
                             "code": "D303",
@@ -6085,7 +6085,7 @@
                             "nome": "Mugnano di Napoli"
                         },
                         {
-                            "code": "B905",
+                            "code": "F839",
                             "cap": "801xx",
                             "nome": "Napoli"
                         },
@@ -6195,9 +6195,9 @@
                             "nome": "San Vitaliano"
                         },
                         {
-                            "code": "063090",
+                            "code": "M273",
                             "cap": "80050",
-                            "nome": "Santa Maria la Carit\u00e0"
+                            "nome": "Santa Maria la Carita"
                         },
                         {
                             "code": "I208",
@@ -7584,9 +7584,9 @@
                             "nome": "Dovadola"
                         },
                         {
-                            "code": "040012",
+                            "code": "D704",
                             "cap": "4712x",
-                            "nome": "Forl\u00ec"
+                            "nome": "Forli"
                         },
                         {
                             "code": "D705",
@@ -40259,14 +40259,14 @@
                             "nome": "Costermano"
                         },
                         {
-                            "code": "023031",
+                            "code": "D317",
                             "cap": "37020",
-                            "nome": "Dolc\u00e8"
+                            "nome": "Dolce"
                         },
                         {
                             "code": "023032",
                             "cap": "37060",
-                            "nome": "Erb\u00e8"
+                            "nome": "Erbe"
                         },
                         {
                             "code": "D420",
@@ -40384,9 +40384,9 @@
                             "nome": "Oppeano"
                         },
                         {
-                            "code": "023056",
+                            "code": "G378",
                             "cap": "37050",
-                            "nome": "Pal\u00f9"
+                            "nome": "Palu"
                         },
                         {
                             "code": "G365",
@@ -40419,9 +40419,9 @@
                             "nome": "Rivoli Veronese"
                         },
                         {
-                            "code": "023063",
+                            "code": "H522",
                             "cap": "37030",
-                            "nome": "Ronc\u00e0"
+                            "nome": "Ronca"
                         },
                         {
                             "code": "H540",
@@ -40434,14 +40434,14 @@
                             "nome": "Roverchiara"
                         },
                         {
-                            "code": "023067",
+                            "code": "H608",
                             "cap": "37028",
-                            "nome": "Rover\u00e8 Veronese"
+                            "nome": "Rovere Veronese"
                         },
                         {
-                            "code": "023066",
+                            "code": "H610",
                             "cap": "37040",
-                            "nome": "Roveredo di Gu\u00e0"
+                            "nome": "Roveredo di Gua"
                         },
                         {
                             "code": "H714",
@@ -40524,9 +40524,9 @@
                             "nome": "Sona"
                         },
                         {
-                            "code": "023084",
+                            "code": "I859",
                             "cap": "37060",
-                            "nome": "Sorg\u00e0"
+                            "nome": "Sorga"
                         },
                         {
                             "code": "L136",
@@ -40720,9 +40720,9 @@
                             "nome": "Campolongo sul Brenta"
                         },
                         {
-                            "code": "024024",
+                            "code": "B841",
                             "cap": "36010",
-                            "nome": "Carr\u00e8"
+                            "nome": "Carru"
                         },
                         {
                             "code": "B844",
@@ -41035,9 +41035,9 @@
                             "nome": "Romano d'Ezzelino"
                         },
                         {
-                            "code": "024087",
+                            "code": "H556",
                             "cap": "36027",
-                            "nome": "Ros\u00e0"
+                            "nome": "Rosa"
                         },
                         {
                             "code": "H580",
@@ -41190,9 +41190,9 @@
                             "nome": "Villaverla"
                         },
                         {
-                            "code": "024119",
+                            "code": "M145",
                             "cap": "36010",
-                            "nome": "Zan\u00e8"
+                            "nome": "Zane"
                         },
                         {
                             "code": "M170",
